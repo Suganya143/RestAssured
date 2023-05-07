@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: SampleTest.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.297 s <<< FAILURE! - in SampleTest.AppTest
+shouldAnswerWithTrue(SampleTest.AppTest)  Time elapsed: 0.253 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at SampleTest.AppTest.shouldAnswerWithTrue(AppTest.java:18)
+Caused by: groovy.lang.GroovyRuntimeException: Conflicting module versions. Module [groovy-xml is loaded in version 4.0.6 and you are trying to load version 3.0.8
+	at SampleTest.AppTest.shouldAnswerWithTrue(AppTest.java:18)
+

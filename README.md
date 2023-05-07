@@ -4,8 +4,8 @@ Created new automation framework to test REST API from the scratch
 
 Texttract used in this project are as below:
   1. Java; JDK version - 19
-  2. Maven; version - 
-  3. Junit; version -
+  2. Maven; version - 3
+  3. Junit; version - 4
   4. RestAssured-for easy testing of REST services; version - 5.3.0
   5. RestAssured-JSONPath; version - 5.3.0
   6. RestAssured-JSON Schema Validator; version - 5.3.0
